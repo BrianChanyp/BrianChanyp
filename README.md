@@ -24,11 +24,11 @@
 
 ### :man_technologist: About Me:
 
-I am a recent :man_student: Graduate Developer from Auckland University of Technology.
+I am a recent :man_student: Graduate Developer from Auckland University of Technology and have just started working as a graduate 
 
 :dart: Exploring new ways to help improve how I code and consistently contribute to my github profile.
 
--:zap: In my free time, I doing courses on ZerotoMastery and Linkedin Learning.
+-:zap: In my free time, I doing courses on ZerotoMastery and percipho.
 
 -:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-chan-684632209/)
 
